@@ -1,0 +1,106 @@
+#EXTM3U
+
+# RADIO FRANCE #
+################
+
+#EXTINF:0,France Culture
+http://direct.franceculture.fr/live/franceculture-midfi.mp3
+
+#EXTINF:0,France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+
+#EXTINF:0,France Musique
+http://direct.francemusique.fr/live/francemusique-midfi.mp3
+
+#EXTINF:0,France Info
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+
+# FIP #
+#######
+
+#EXTINF:0,FIP National
+http://direct.fipradio.fr/live/fip-hifi.aac
+
+#EXTINF:0,FIP Électro
+http://direct.fipradio.fr/live/fipelectro-hifi.aac
+
+#EXTINF:0,FIP Groove
+http://direct.fipradio.fr/live/fipgroove-hifi.aac
+
+#EXTINF:0,FIP Hip-Hop
+http://direct.fipradio.fr/live/fiphiphop-hifi.aac
+
+#EXTINF:0,FIP Jazz
+http://direct.fipradio.fr/live/fipjazz-hifi.aac
+
+#EXTINF:0,FIP Métal
+http://direct.fipradio.fr/live/fipmetal-hifi.aac
+
+#EXTINF:0,FIP Monde
+http://direct.fipradio.fr/live/fipworld-hifi.aac
+
+#EXTINF:0,FIP Nouveautés
+http://direct.fipradio.fr/live/fipnouveautes-hifi.aac
+
+#EXTINF:0,FIP Pop
+http://direct.fipradio.fr/live/fippop-hifi.aac
+
+#EXTINF:0,FIP Reggae
+http://direct.fipradio.fr/live/fipreggae-hifi.aac
+
+#EXTINF:0,FIP Rock
+http://direct.fipradio.fr/live/fiprock-hifi.aac
+
+#EXTINF:0,FIP Sacré français !
+http://direct.fipradio.fr/live/fipsacrefrancais-hifi.aac
+
+
+# RADIO PARADISE #
+##################
+
+# Main Mix
+
+#EXTINF:0,Radio Paradise Main Mix (FLAC + metadata)
+http://stream.radioparadise.com/flacm
+
+#EXTINF:0,Radio Paradise Main Mix (320k aac)
+http://stream.radioparadise.com/aac-320
+
+#EXTINF:0,Radio Paradise Main Mix (192k ogg vorbis + metadata)
+http://stream.radioparadise.com/rp_192m
+
+#EXTINF:0,Radio Paradise Main Mix (128k aac)
+http://stream.radioparadise.com/aac-128
+
+# Mellow Mix
+
+#EXTINF:0,Radio Paradise Mellow Mix (FLAC + metadata)
+http://stream.radioparadise.com/mellow-flacm
+
+# SOMA FM #
+###########
+
+#EXTINF:0,SomaFM Groove Salad (256k MP3)
+https://somafm.com/groovesalad256.pls
+
+#EXTINF:0,SomaFM Groove Salad Classic (128k aac)
+https://somafm.com/gsclassic130.pls
+
+#EXTINF:0,SomaFM Drone Zone (256k MP3)
+https://somafm.com/dronezone256.pls
+
+#EXTINF:0,SomaFM Deep Space One (128k aac)
+https://somafm.com/deepspaceone130.pls
+
+#EXTINF:0,SomaFM Left Coast 70s (320k mp3)
+https://somafm.com/seventies320.pls
+
+#EXTINF:0,SomaFM Folk Forward (128k aac)
+https://somafm.com/folkfwd130.pls
+
+
+# KBC #
+#######
+
+#EXTINF:0,KBC Radio
+http://stream02.itego.nl/kbc-high?1724451654353=
